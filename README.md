@@ -7,7 +7,7 @@ Day 1:
 
 Overview of Image Recognition and fundamentals of Deep Learning
 
-Loading and preprocessing datasets (MNIST and CIFAR-10)
+Loading and preprocessing datasets (FASHION MNIST and CIFAR-10)
 
 Conducted Exploratory Data Analysis (EDA) using Matplotlib
 
