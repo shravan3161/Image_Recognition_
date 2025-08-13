@@ -45,8 +45,11 @@ Compiled and prepared portfolio-ready project deliverables
 
 Tools Used:
 Development: Google Colab, Jupyter Notebook
+
 Programming: Python, TensorFlow/Keras, scikit-learn
+
 Visualization: Matplotlib, Seaborn
+
 Data Handling: Kaggle API, TensorFlow Datasets
 
 
