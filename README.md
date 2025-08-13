@@ -50,7 +50,7 @@ Programming: Python, TensorFlow/Keras, scikit-learn
 
 Visualization: Matplotlib, Seaborn
 
-Data Handling: Kaggle API, TensorFlow Datasets
+Data Handling: Kaggle API, TensorFlow Datasets.
 
 
 
